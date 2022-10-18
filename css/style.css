@@ -56,7 +56,9 @@
   padding: 15px 0;
 }
 
-
+#sidebar-container ul li a:hover{
+  background-color: #000;
+}
 
 #onpage{
   text-decoration: underline overline;
