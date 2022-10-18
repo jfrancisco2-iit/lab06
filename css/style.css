@@ -1,11 +1,5 @@
-nav{
-  background-color:blue;
-  overflow: hidden;
-  float: left;
-  width: 100%	
-}
-
 #main-navbar{
+  background-color:blue;
   position: relative;
   list-style-type: none;
   display: block;
@@ -18,8 +12,7 @@ nav{
 
 #navbar-container{
   position: relative;
-  left:50%
-  float: left;
+  text-align: center;
   width: 100%
 }
 
@@ -29,3 +22,7 @@ nav{
   background-color: #000;
   text-decoration: underline overline;
 }
+
+left:50%
+  float: left;
+  width: 100%
