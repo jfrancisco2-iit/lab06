@@ -18,6 +18,10 @@
   overflow: hidden;
 }
 
+main-navbar ul li{
+  float: left;
+}
+
 #navbar-container{
   position: relative;
   text-align: center;
