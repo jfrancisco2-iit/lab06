@@ -21,11 +21,20 @@
   text-decoration: none;
 }
 
+#main-navbar ul li a:hover{
+  background-color: #000;
+}
+
 #navbar-container{
   position: relative;
   text-align: center;
   width: 100%
 }
+
+#sidebar {
+  padding: 0;
+}
+
 
 
 #onpage{
