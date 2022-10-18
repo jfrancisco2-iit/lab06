@@ -48,6 +48,14 @@
   list-style-type: none;
 }
 
+#sidebar-container ul li a{
+  display: block;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px 0;
+}
+
 
 
 #onpage{
