@@ -1,13 +1,13 @@
 #main-navbar{
-  background-color:blue;
+  background-color: blue;
   position: relative;
 
 #main-navbar ul {
   list-style-type: none;
-  display:inline-block;
   padding: 0;
   margin: 0;
   overflow: hidden;
+  display: inline-block;
 }
 
 #main-navbar ul li {
@@ -29,8 +29,5 @@
 
 
 #onpage{
-  position:relative;
-  right: 50%
-  background-color: #000;
   text-decoration: underline overline;
 }
