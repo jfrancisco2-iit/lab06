@@ -1,6 +1,29 @@
 nav{
-	background-color:blue;
-	overflow: hidden;
-	float: left;
-	width: 100%	
+  background-color:blue;
+  overflow: hidden;
+  float: left;
+  width: 100%	
+}
+
+#main-navbar{
+  position: relative;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar-container{
+  position: relative;
+  left:50%
+  float: left;
+}
+
+#onpage{
+  position:relative;
+  right: 50%
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #000;
+  text-decoration: underline overline;
 }
